@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://p2enjoy.studio/sitemap.xml
