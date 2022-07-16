@@ -3,12 +3,67 @@
     <title>P2Enjoy Studio</title>
     <link href="https://p2enjoy.studio/feed.xml" rel="self" />
     <link href="https://p2enjoy.studio" />
-    <updated>2022-07-13T11:01:57+02:00</updated>
+    <updated>2022-07-16T17:49:23+02:00</updated>
     <author>
         <name>Martino BETTUCCI</name>
     </author>
     <id>https://p2enjoy.studio</id>
 
+    <entry>
+        <title>Disclaimer</title>
+        <author>
+            <name>Martino BETTUCCI</name>
+        </author>
+        <link href="https://p2enjoy.studio/disclaimer/"/>
+        <id>https://p2enjoy.studio/disclaimer/</id>
+            <category term="Legals"/>
+
+        <updated>2022-07-16T17:49:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Disclaimer for P2Enjoy SAS and its published websites If you require any more information or have any questions about our&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Disclaimer for P2Enjoy SAS and its published websites</h1>
+<p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at <a href="mailto:ceo@p2enjoy.studio" rel="nofollow">ceo@p2enjoy.studio</a>.</p>
+<h2>Disclaimers</h2>
+<p>All the information on this website or any other published website from the company - is published in good faith. P2Enjoy does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on any published website from the company, is strictly at your own risk. P2Enjoy will not be liable for any losses and/or damages in connection with the use of our website.</p>
+<p>From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.</p>
+<p>Please be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Please be sure to check the Privacy Policies of these sites as well as their "Terms of Service" before engaging in any business or uploading any information.</p>
+<h2>Consent</h2>
+<p>By using our website, you hereby consent to our disclaimer and agree to its terms.</p>
+<h2>Update</h2>
+<p>Should we update, amend or make any changes to this document, <a href="https://p2enjoy.studio/updates-and-notification-about-our-policies/" rel="nofollow">read how to be notified when it happens</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Updates and notification about our policies</title>
+        <author>
+            <name>Martino BETTUCCI</name>
+        </author>
+        <link href="https://p2enjoy.studio/updates-and-notification-about-our-policies/"/>
+        <id>https://p2enjoy.studio/updates-and-notification-about-our-policies/</id>
+
+        <updated>2022-07-16T17:38:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Read how to check the last update of our policies and how to notified of any changes occurs.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+<h2>Updates of our policy</h2>
+<p>This website ans any other published website from the company is RSS ATOM compatible, you can easily subscribe to any page change via your web browser and being notified real-time of any updated content.</p>
+<p>Every legal page have a last modification timestamp.</p>
+<p>You're invited to go and subscribe to the feed of any legal page you want to be notified in the event of content change.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Notice on copyright and intellectual or industrial properties</title>
         <author>
@@ -42,17 +97,24 @@
             <category term="Terms"/>
             <category term="Legals"/>
 
-        <updated>2022-07-13T10:55:23+02:00</updated>
+        <updated>2022-07-16T17:38:06+02:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Retrouvez ici les CGV des articles vendus par le studio conformement à sa déclaration d'activité dans le projet de statut de création.</p>
+                    <p>Find here the Mandatory Consumer Information of the articles sold by the studio in accordance with its declaration of activity in the draft status of creation.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-<p> </p>
+<p>In order to use and take return or advantage of this website or any affiliate service we might use or provide, you must read and accept the <a href="https://p2enjoy.studio/terms-of-service/" rel="nofollow" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Terms of service.</a></p>
+<p>By pursuing the navigation or by subscribing to any affiliate service, you confirm you have read and accepted all the conditions and obligations.</p>
+<h2>Internal policy</h2>
+<p>As the company is not selling any service  by its own at the time of writing, there is not much to write here about.</p>
+<p><span style="text-decoration: underline;">We intends to offers selling of digital goods in the near future</span>, please follow the page for future updates.</p>
+<h2>External policy</h2>
+<p>#P2Enjoy may use affiliated sites for some of its selling services like events organisations with ticket selling, fund risings, academics web binaries, NFT markets... and they might have a different terms of sales policy then our own.</p>
+<p>We encourage you to read the terms of sales policy of any service we might recommend you via a link, a discussion on a social network, a mail... prior of using it to buy any product we sell through these platforms.</p>
             ]]>
         </content>
     </entry>
@@ -125,17 +187,28 @@
         <id>https://p2enjoy.studio/cookie-policy/</id>
             <category term="Legals"/>
 
-        <updated>2022-07-13T10:56:43+02:00</updated>
+        <updated>2022-07-16T17:29:06+02:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Retrouvez ici les conditions générales d'utilisation du site web relatives à la collecte des données.</p>
+                        <img src="https://p2enjoy.studio/media/posts/14/mockaroon-bzLhhI3MpYY-unsplash.jpg" alt="Not a bunch of cookies" />
+                    <p>Find here the general conditions of use about any of ours website relating to the use of cookies.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://p2enjoy.studio/media/posts/14/mockaroon-bzLhhI3MpYY-unsplash.jpg" alt="Not a bunch of cookies" />
                 
-<p> </p>
+<p>In order to use and take return or advantage of this website or any affiliate service we might use or provide, you must read and accept the <a href="https://p2enjoy.studio/terms-of-service/" rel="nofollow" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Terms of service.</a></p>
+<p>By pursuing the navigation or by subscribing to any affiliate service, you confirm you have read and accepted all the conditions and obligations.</p>
+<h2>Internal policy</h2>
+<p><strong>#P2Enjoy</strong> is a blockchain company and, just like you, we care about privacy: our own and yours.</p>
+<p>The featured image of the page is called "not a bunch of cookies 🍪" (they are <em>macarons</em>, it's a pastry from France that you should absolutely try once in a lifetime) because we choose to not use any cookie for our websites: so there is not much more to say here.</p>
+<p>We still collect some analytics via publicly available data, you can read more about what and how and when and if data is collected <a href="https://p2enjoy.studio/privacy-policy/" rel="nofollow">here</a>.</p>
+<h2>External policy</h2>
+<p>#P2Enjoy may use affiliated sites for some of its services like events organisations, ticket selling, fund risings, web binaries, podcasts, social networks... and they might have a different cookie policy then our own.</p>
+<p>We <strong><span style="text-decoration: underline;">DO NOT</span></strong> exploit the cookies (if any) from any service we might be partnering or working or sub-contracting part of our business.</p>
+<p>Since we care for your privacy, we encourage you to read the cookie policy of any service we might recommend you via a link, a discussion on a social network, a mail... prior of using it.</p>
             ]]>
         </content>
     </entry>
@@ -148,17 +221,34 @@
         <id>https://p2enjoy.studio/privacy-policy/</id>
             <category term="Legals"/>
 
-        <updated>2022-07-13T11:00:57+02:00</updated>
+        <updated>2022-07-16T17:28:17+02:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Retrouvez ici les termes et les conditions d'exploitation des données collectées par le site internet.</p>
+                    <p>Find here the terms and conditions of use of the data collected by this and any other website published or owned by the company.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-<p> </p>
+<p>In order to use and take return or advantage of this website or any affiliate service we might use or provide, you must read and accept the <a href="https://p2enjoy.studio/terms-of-service/" rel="nofollow" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Terms of service.</a></p>
+<p>By pursuing the navigation or by subscribing to any affiliate service, you confirm you have read and accepted all the conditions and obligations.</p>
+<h2>The general policy</h2>
+<p>#P2Enjoy is committed to protecting the privacy of its customers and maintaining your trust and confidence is one of our highest priorities.<br><br>To provide you with the best experience possible while using the Website, upon purchase of products from this company, upon interaction with support services, upon subscribing for any organised event and other marketing and other interactions between you and any other of our affiliates service, you may from time to time provide some personally identifiable information (“Personal Data”).<br><br>#P2Enjoy is committed to collect and process Personal Data only in accordance with its rights and responsibilities under the applicable laws and regulations, including the European Union’s General Data Protection Regulation (“GDPR”).</p>
+<p>In order to performs its operations with (not exthensive list of) customers, contractors, subscribers, business partnership and alike; #P2Enjoy might process personal data during the process of doing.</p>
+<h2>Analytics of the sites published by the company</h2>
+<p>#P2Enjoy use <a href="https://umami.is/" target="_blank" rel="noopener noreferrer">Umami</a> for its analytics on theirs published websites.</p>
+<p>Umami does not collect any personally identifiable information and all data collected is anonymous. Users cannot be identified and are never tracked across websites. All data is stored as aggregated statistics only.</p>
+<p>The statistics being aggregated and stored are:</p>
+<ul>
+<li>counters for each visited pages</li>
+<li>counters for visitors page referrers</li>
+<li>counter for name and version of the browser of the visitors used to navigate the site</li>
+<li>counter for name and version of the operating system of the visitors</li>
+<li>counters for each generic class of the device being used by the visitor like desktop pc, mobile phone, tablet...</li>
+<li>counters for the country of the visitors: no city, no region, no street... only the country.</li>
+</ul>
+<p>Statistical data is retained for as long as the referred service is available on-line and it's deleted once the service target of the analytics goes off-line.</p>
             ]]>
         </content>
     </entry>
@@ -172,119 +262,22 @@
             <category term="Terms"/>
             <category term="Legals"/>
 
-        <updated>2022-07-13T10:57:41+02:00</updated>
+        <updated>2022-07-16T17:21:31+02:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Retrouvez ici les CGU relatives aux services proposés par le studio via son site internet.</p>
+                    <p>Find here the TCU relating to the services offered by the studio via its websites.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Terms of service</title>
-        <author>
-            <name>Martino BETTUCCI</name>
-        </author>
-        <link href="https://p2enjoy.studio/terms-of-service/"/>
-        <id>https://p2enjoy.studio/terms-of-service/</id>
-            <category term="Terms"/>
-            <category term="Legals"/>
-
-        <updated>2022-07-13T11:01:57+02:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Retrouvez ici les CGS des services proposés par la société via son site internet.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Legals</title>
-        <author>
-            <name>Martino BETTUCCI</name>
-        </author>
-        <link href="https://p2enjoy.studio/legals/"/>
-        <id>https://p2enjoy.studio/legals/</id>
-            <category term="Legals"/>
-            <category term="About"/>
-
-        <updated>2022-07-13T10:52:33+02:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Retrouvez ici les informations concernant l'exploitant, le responsable juridique du contenu publié, le coordonnées de l'hebergeur et les informations de la societé comme le RCS, le SIRET/SIREN, APE, capital social, forme juridique, etc...</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-<p class="msg msg--info">P2Enjoy, SAS au capital social de 5000€.<br>President :<a href="https://p2enjoy.studio/ceo-vcard/" rel="nofollow">Martino BETTUCCI</a></p>
-<p class="msg msg--highlight ">Immatriculée au RCS: <strong>societé en cours de création</strong>.</p>
-<p class="copyright msg msg--highlight ">Numéro d'indentification TVA: <strong>societé en cours de création</strong>.</p>
-<p>Hebergeur du site internet: </p>
-<table id="rensjur" class="Table identity mt-16">
-<tbody>
-<tr>
-<td class="arrow">Noms commerciaux</td>
-<td class="break-word">GITHUB INC</td>
-</tr>
-<tr>
-<td class="arrow">Adresse postale</td>
-<td><a class="Lien secondaire" href="https://maps.google.fr/maps?f=q&amp;hl=fr&amp;geocode=&amp;q=88%20COLIN%20P.%20KELLY%20JR%20ST%20CA%2094107%20SAN%20FRANCISCO">88 COLIN P. KELLY JR ST CA 94107 99404 SAN FRANCISCO</a></td>
-</tr>
-<tr class="bg-lighter-blue">
-<td colspan="2"><span class="grey7 ft-medium">Numéros d'identification</span></td>
-</tr>
-<tr>
-<td class="arrow">Numéro SIREN</td>
-<td class="no-padding arrow">
-<div class="copyNumber">
-<div id="siren_number" class="copyNumber__number" data-nosnippet=""><span class="copyNumber__copy">800813156</span></div>
-</div>
-</td>
-</tr>
-<tr>
-<td class="arrow">Numéro SIRET</td>
-<td class="no-padding arrow">
-<div class="copyNumber">
-<div id="siret_number" class="copyNumber__number" data-nosnippet=""><span class="copyNumber__copy">80081315600018</span></div>
-</div>
-</td>
-</tr>
-<tr class="bg-lighter-blue">
-<td colspan="2"><span class="grey7 ft-medium">Informations commerciales</span></td>
-</tr>
-<tr>
-<td class="arrow">Catégorie</td>
-<td>Informatique</td>
-</tr>
-<tr class="Paywall">
-<td class="arrow" colspan="2">
-<div id="ape-histo-around" class="FicheDonnees__around   inseeFirst noDataImr">
-<div id="ape-histo" class="FicheDonnees">
-<div id="ape-histo-voir" class="abonne-compteplus donneesHistoriques voirPlus">
-<p class="Lien with-picto"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Activité (Code NAF ou APE)</span></p>
-</div>
-<div id="ape-histo-description" class="FicheDonnees__donneeGenerique">Traitement de données, hébergement et activités connexes (6311Z)</div>
-</div>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Retrouvez l'ensemble des mentions légales obligatoires et accéssoires dans <a href="https://p2enjoy.studio/tags/legals/">cette page dédiée</a>.</h2>
+<p>In order to use and take return or advantage of this website or any affiliate service we might use or provide, you must read and accept the <a href="https://p2enjoy.studio/terms-of-service/" rel="nofollow" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Terms of service.</a></p>
+<p>By pursuing the navigation or by subscribing to any affiliate service, you confirm you have read and accepted all the conditions and obligations.</p>
+<h2>Origins of the users</h2>
+<p>The <span style="text-decoration: underline;">full extent</span> of the services offered by the company and its games or affiliates are available to EU citizen only.</p>
+<p>If you subscribe or buy or get in any business relationship with the company and you are not a EU citizen, you understand that some services or service behaviours might not be offered to you and some services might behave differently based on your region or state of residence.</p>
+<p>The order of unavailable services or changed behaviours for non-EU citizens will be stated on the page of the service itself.</p>
             ]]>
         </content>
     </entry>
