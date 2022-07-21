@@ -3,7 +3,7 @@
     <title>P2Enjoy Studio</title>
     <link href="https://p2enjoy.studio/feed.xml" rel="self" />
     <link href="https://p2enjoy.studio" />
-    <updated>2022-07-21T01:11:12+02:00</updated>
+    <updated>2022-07-21T03:06:29+02:00</updated>
     <author>
         <name>Martino BETTUCCI</name>
     </author>
@@ -188,14 +188,16 @@
         <id>https://p2enjoy.studio/we-are-the-best-around/</id>
             <category term="About"/>
 
-        <updated>2022-07-21T00:24:38+02:00</updated>
+        <updated>2022-07-21T03:06:29+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://p2enjoy.studio/media/posts/17/background_socials.png" alt="" />
                     We are a passionate gaming editor and incubator who aim to help develop and promote fair, near-zero-carbon footprint and sustainable&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://p2enjoy.studio/media/posts/17/background_socials.png" alt="" />
                 <p data-key="11"><span style="font-weight: 400;">We are a passionate gaming editor and incubator who </span><span style="text-decoration: underline;"><span style="font-weight: 400;">aim to help develop and promote fair, near-zero-carbon footprint and sustainable video-gaming</span></span><span style="font-weight: 400;"> on the block-chain.</span></p>
 <p data-key="32"><span data-key="31">We connect different talents to leverage the costs for every start-upper, <em>so you can focus on what you know you can do the best</em> 💯</span></p>
 <p class="align-right" data-key="51"><span data-key="50"><strong data-slate-leaf="true">Why?</strong><em data-slate-leaf="true"> Because someone has to do that!</em></span></p>
