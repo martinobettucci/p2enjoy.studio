@@ -3,7 +3,7 @@
     <title>P2Enjoy Studio</title>
     <link href="https://p2enjoy.studio/feed.xml" rel="self" />
     <link href="https://p2enjoy.studio" />
-    <updated>2022-07-21T03:06:29+02:00</updated>
+    <updated>2022-07-21T03:36:42+02:00</updated>
     <author>
         <name>Martino BETTUCCI</name>
     </author>
@@ -188,16 +188,16 @@
         <id>https://p2enjoy.studio/we-are-the-best-around/</id>
             <category term="About"/>
 
-        <updated>2022-07-21T03:06:29+02:00</updated>
+        <updated>2022-07-21T03:36:42+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://p2enjoy.studio/media/posts/17/background_socials.png" alt="" />
+                        <img src="https://p2enjoy.studio/media/posts/17/background_socials-2.png" alt="" />
                     We are a passionate gaming editor and incubator who aim to help develop and promote fair, near-zero-carbon footprint and sustainable&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://p2enjoy.studio/media/posts/17/background_socials.png" alt="" />
+                    <img src="https://p2enjoy.studio/media/posts/17/background_socials-2.png" alt="" />
                 <p data-key="11"><span style="font-weight: 400;">We are a passionate gaming editor and incubator who </span><span style="text-decoration: underline;"><span style="font-weight: 400;">aim to help develop and promote fair, near-zero-carbon footprint and sustainable video-gaming</span></span><span style="font-weight: 400;"> on the block-chain.</span></p>
 <p data-key="32"><span data-key="31">We connect different talents to leverage the costs for every start-upper, <em>so you can focus on what you know you can do the best</em> 💯</span></p>
 <p class="align-right" data-key="51"><span data-key="50"><strong data-slate-leaf="true">Why?</strong><em data-slate-leaf="true"> Because someone has to do that!</em></span></p>
@@ -236,17 +236,19 @@
         <id>https://p2enjoy.studio/game-p2enjoy-ostg/</id>
             <category term="The games"/>
 
-        <updated>2022-07-21T00:24:03+02:00</updated>
+        <updated>2022-07-21T03:12:52+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://p2enjoy.studio/media/posts/16/title5.png" alt="&gt;Outerspace, the game&lt;" />
-                    The first project of the studio is already in development since march 2022: The game features an open universe filled&hellip;
+                    <p>Harvest, Explore, Rule and Conquer 🚀✨</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://p2enjoy.studio/media/posts/16/title5.png" alt="&gt;Outerspace, the game&lt;" />
-                <p><span style="font-weight: 400;">The first project of the studio is already in development since march 2022:</span></p>
+                
+<p><span style="font-weight: 400;">The first project of the studio is already in development since march 2022:</span></p>
 <p><span style="font-weight: 400;">The game features an open universe filled with preponderated assets of planets to be discovered and settled by the players.</span></p>
 <p><span style="font-weight: 400;">Whether the players are to collect them, build an empire out of them or sell them for profit it is entirely up to the players.</span></p>
 <p class="msg msg--info align-center">Official affiliate website:<br><a href="https://www.outerspacethegame.app" target="_blank" rel="nofollow sponsored noopener noreferrer">]|Outerspace|[ <br>-~=//The gamE\\=~-</a></p>
