@@ -11,6 +11,49 @@
     },
     "items": [
         {
+            "id": "https://p2enjoy.studio/about-the-academy/",
+            "url": "https://p2enjoy.studio/about-the-academy/",
+            "title": "About the academy",
+            "summary": "Easy to apply so that anyone from any professional or educational background can understand it and use it in their&hellip;",
+            "content_html": "<p>Easy to apply so that anyone from any professional or educational background can understand it and use it in their daily lives.</p>",
+            "author": {
+                "name": "Martino BETTUCCI"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-24T01:39:55+01:00",
+            "date_modified": "2023-02-24T01:39:55+01:00"
+        },
+        {
+            "id": "https://p2enjoy.studio/the-gaming/",
+            "url": "https://p2enjoy.studio/the-gaming/",
+            "title": "About the gaming",
+            "summary": "If you're interested on our philosophy, you can read our whitepaper about gaming here. In addition to our general values,&hellip;",
+            "content_html": "<p><em>If you're interested on our philosophy, <a href=\"https://p2enjoy.studio/p2enjoy-game-philosophy/\" rel=\"nofollow\">you can read our whitepaper about gaming here</a>.</em></p>\n<p><span style=\"font-weight: 400;\">In addition to our <a href=\"https://p2enjoy.studio/we-are-the-best-around/\">general values</a>, we added two special cases about the gaming:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"><a href=\"https://p2enjoy.studio/shares/\" title=\"Read more how we believe it is fair to share gaming earnings\">Fair redistribution of the shares between the investors and the players </a>(no more Ponzi-like!).</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"><a href=\"https://p2enjoy.studio/fun/\" title=\"Read more about our observations on current block-chain gaming\">Games built for the long run: have fun for months!</a></span></li>\n</ul>\n<address> </address><address><span style=\"color: #7e8c8d;\">You can expand, by clicking on it, any of our value to have a better explanation of our vision and how we work to take those paths. </span></address>\n<p><strong>Most importantly: w<span data-key=\"23\">e want the block-chain gaming to be ecoresponsible and fun to ENJOY playing! Hence the #Enjoy in the #P2E 🥳</span></strong></p>\n<p class=\"align-right\">Because it's <strong>P</strong>(lay)<strong>2E</strong>(njoy).</p>",
+            "author": {
+                "name": "Martino BETTUCCI"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-24T01:24:00+01:00",
+            "date_modified": "2023-02-24T01:39:42+01:00"
+        },
+        {
+            "id": "https://p2enjoy.studio/our-services/",
+            "url": "https://p2enjoy.studio/our-services/",
+            "title": "Our Services",
+            "summary": "Everyone can use decentralised services! 🐀👨‍🍳 Our services are designed to help you get the most out of blockchain and&hellip;",
+            "content_html": "<p class=\"align-center\"><em>Everyone can use decentralised services! 🐀👨‍🍳</em></p>\n<p>Our services are designed to help you get the most out of blockchain and gaming technology. Whether you're looking to learn about the latest trends and developments, network with industry leaders, or create your own gaming experiences, we have the resources you need to succeed. Our services include:</p>\n<ul>\n<li>Blockchain Academy: Access a wide range of blockchain courses for life and get personal tutoring from our experienced staff.</li>\n<li>Workshops and Conferences: Attend our workshops and conferences to learn about the latest advancements in the industry and network with other like-minded individuals.</li>\n<li>Job Placement: Land your dream job in the industry with our job placement services.</li>\n<li>Consulting: Get expert advice on any aspect of blockchain and gaming, from project management to marketing and beyond.</li>\n<li>Gaming: Join our gaming community to create your own games or explore the latest releases from our talented team.</li>\n</ul>",
+            "author": {
+                "name": "Martino BETTUCCI"
+            },
+            "tags": [
+                   "About"
+            ],
+            "date_published": "2023-02-24T01:10:12+01:00",
+            "date_modified": "2023-02-24T01:44:39+01:00"
+        },
+        {
             "id": "https://p2enjoy.studio/unleash-your-creativity-h-web3/",
             "url": "https://p2enjoy.studio/unleash-your-creativity-h-web3/",
             "title": "Unleash Your Creativity: H-WEB3",
@@ -123,53 +166,6 @@
             ],
             "date_published": "2022-07-13T10:10:46+02:00",
             "date_modified": "2022-07-16T17:38:06+02:00"
-        },
-        {
-            "id": "https://p2enjoy.studio/we-are-the-best-around/",
-            "url": "https://p2enjoy.studio/we-are-the-best-around/",
-            "title": "Make it real",
-            "summary": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://p2enjoy.studio/media/posts/17/cdcs-01-cadre.png\" sizes=\"100vw\" srcset=\"https://p2enjoy.studio/media/posts/17/responsive/cdcs-01-cadre-xs.png 300w ,https://p2enjoy.studio/media/posts/17/responsive/cdcs-01-cadre-sm.png 480w ,https://p2enjoy.studio/media/posts/17/responsive/cdcs-01-cadre-md.png 768w ,https://p2enjoy.studio/media/posts/17/responsive/cdcs-01-cadre-lg.png 1024w ,https://p2enjoy.studio/media/posts/17/responsive/cdcs-01-cadre-xl.png 1360w ,https://p2enjoy.studio/media/posts/17/responsive/cdcs-01-cadre-2xl.png 1600w\"  alt=\"A great logo!\" width=\"512\" height=\"320\"></figure><span style=\"font-weight: 400;\">We are a passionate studio of <strong>#web3</strong> professionals and partners</span> who aim to <strong>#</strong><strong>democratise</strong>, build and actively help the <strong>#future #generations</strong> of this business to grow a better world of <strong>#blockchain</strong> around <strong>#gaming</strong> and <strong>#gamification </strong>of real-life experience.</p>\n<p class=\"align-right\" data-key=\"11\">We (you, us) are the best, around 🥋🧒</p>\n",
-            "content_html": "\n<p class=\"msg msg--info\" data-key=\"11\">We invest in <strong>#education</strong>, talent <strong>#networking</strong> and building projects that <strong>#reflects </strong>our<strong> #values</strong>: we want to (help <em><span style=\"text-decoration: underline;\">you</span> </em>to) develop your idea and (by doing this <span style=\"text-decoration: underline;\"><em>we</em></span>) promote a fair and more responsible usage of the blockchain technology.</p>\n<p data-key=\"32\">We are committed to democratising, training and spread knowledge around technology and particularly <strong>#decentralised</strong> <strong>#web </strong>to the extends that everyone, from any professional or educational background, can understand it and use it in their daily lives.</p>\n<p class=\"align-right\" data-key=\"51\"><span data-key=\"50\"><strong data-slate-leaf=\"true\">Why?</strong><em data-slate-leaf=\"true\"> Because someone has to do that!</em></span></p>\n<p class=\"msg msg--success\" data-key=\"51\"><a href=\"https://communityupdate.p2enjoy.studio\" title=\"Our monthly update on eventbrite :) \" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Subscribe to the monthly community update here</a>!</p>\n<p class=\"align-left\" data-key=\"53\"><span data-key=\"52\">Reach to us if you...</span></p>\n<ol class=\"align-left\" data-key=\"56\">\n<li data-key=\"55\"><em><span data-key=\"52\">dream to </span>work for the digital entertainment industry 💭</em></li>\n<li data-key=\"68\"><span data-key=\"67\">like the block-chain ecosystem 🧱</span></li>\n<li data-key=\"70\"><span data-key=\"69\"><em>have a fun idea</em> for a great game or a life-improving gamified experience! 👾</span></li>\n</ol>\n<p class=\"align-left\" data-key=\"62\"><span data-key=\"61\">We are eager to add you to the family if you're a illustrator 🎨, a game designer ⚙, a composer 🎼, a developer 👩‍💻👨‍💻 (either block-chain or front-end) and we will give you everything you need to achieve your dreams!</span></p>\n<blockquote>\n<p class=\"align-right\">If you're interested in our story, <a href=\"https://p2enjoy.studio/p2enjoy-studio-history/\">you can read a resume here</a>.</p>\n<p class=\"align-right\"><em>If you're interested on our philosophy, <a href=\"https://p2enjoy.studio/p2enjoy-game-philosophy/\" rel=\"nofollow\">you can read our whitepaper about gaming here</a>.</em></p>\n</blockquote>\n<p><span style=\"font-weight: 400;\">Our values:</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"><a href=\"https://p2enjoy.studio/environment/\" title=\"Read more about our environment engagement\">Environment-friendly engagements of the studio and its projects.</a></span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"><a href=\"https://p2enjoy.studio/shares/\" title=\"Read more how we believe it is fair to share gaming earnings\">Fair redistribution of the shares between the investors and the players </a>(no more Ponzi-like!).</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"><a href=\"https://p2enjoy.studio/fun/\" title=\"Read more about our observations on current block-chain gaming\">Games built for the long run: have fun for months!</a></span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\"><a href=\"https://p2enjoy.studio/actors/\" title=\"Read more why we will prevail the local economy first over any one else\">Give the local actors and the local economy the first lodge.</a></span></li>\n</ul>\n<address> </address><address><span style=\"color: #7e8c8d;\">You can expand, by clicking on it, any of our value to have a better explanation of our vision and how we work to take those paths. </span></address>\n<p><strong>Most importantly: w<span data-key=\"23\">e want the block-chain gaming to be ecoresponsible and fun to ENJOY playing! Hence the #Enjoy in the #P2E 🥳</span></strong></p>\n<p class=\"align-right\">Because it's <strong>P</strong>(lay)<strong>2E</strong>(njoy).</p>",
-            "image": "https://p2enjoy.studio/media/posts/17/greg-rakozy-oMpAz-DN-9I-unsplash.jpg",
-            "author": {
-                "name": "Martino BETTUCCI"
-            },
-            "tags": [
-                   "About"
-            ],
-            "date_published": "2022-07-13T10:00:09+02:00",
-            "date_modified": "2023-02-15T19:39:37+01:00"
-        },
-        {
-            "id": "https://p2enjoy.studio/game-p2enjoy-ostg/",
-            "url": "https://p2enjoy.studio/game-p2enjoy-ostg/",
-            "title": "OSTG",
-            "summary": "<p>Harvest, Explore, Rule and Conquer 🚀✨</p>\n",
-            "content_html": "\n<p><span style=\"font-weight: 400;\">The first project of the studio is already in development since march 2022:</span></p>\n<p><span style=\"font-weight: 400;\">The game features an open universe filled with preponderated assets of planets to be discovered and settled by the players.</span></p>\n<p><span style=\"font-weight: 400;\">Whether the players are to collect them, build an empire out of them or sell them for profit it is entirely up to the players.</span></p>\n<p class=\"msg msg--info align-center\">Official affiliate website:<br><a href=\"https://www.outerspacethegame.app\" target=\"_blank\" rel=\"nofollow sponsored noopener noreferrer\">]|Outerspace|[ <br>-~=//The gamE\\\\=~-</a></p>",
-            "image": "https://p2enjoy.studio/media/posts/16/title5.png",
-            "author": {
-                "name": "Martino BETTUCCI"
-            },
-            "tags": [
-                   "The games"
-            ],
-            "date_published": "2022-07-12T19:22:30+02:00",
-            "date_modified": "2022-07-21T03:12:52+02:00"
-        },
-        {
-            "id": "https://p2enjoy.studio/p2enjoy-studio/",
-            "url": "https://p2enjoy.studio/p2enjoy-studio/",
-            "title": "P2Enjoy Studio",
-            "summary": "#P2Enjoy owns “P2Enjoy Studios” which is the core team with 8 very talented freelancers (and one bold CEO) : And&hellip;",
-            "content_html": "<p><span style=\"font-weight: 400;\">#P2Enjoy owns “P2Enjoy Studios” which is the core team with 8 very talented freelancers (<em>and one bold CEO</em>) :</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">1 game asset maker (Silviu)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">1 concept artist (Dmytri)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">1 background illustrator (Anna)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">1 music compositor (Av)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">1 UI, icons and items artist (Palina)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">1 character concept artist (Kenjo)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">1 solidity and javascript developer (Philippe)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">1 community manager (Lou)</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">…and myself as the CEO &amp; orchestrator (Martino)</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">And we are (<span style=\"text-decoration: underline;\"><em>still</em></span>) looking for :</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">1 experienced game designer</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">1 more developer experienced in react UI</span></li>\n<li aria-level=\"1\">1 Q&amp;A engineer (testing, back-testing, integration testing..)</li>\n<li aria-level=\"1\">1 solidity security advisor/auditor</li>\n</ul>",
-            "author": {
-                "name": "Martino BETTUCCI"
-            },
-            "tags": [
-                   "The studios"
-            ],
-            "date_published": "2022-07-12T19:21:51+02:00",
-            "date_modified": "2022-07-21T01:11:12+02:00"
         }
     ]
 }
