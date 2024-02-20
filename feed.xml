@@ -1,472 +1,205 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <title>P2Enjoy Holding -Play-2-Enjoy-</title>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>P2Enjoy Version Enzo</title>
     <link href="https://p2enjoy.studio/feed.xml" rel="self" />
     <link href="https://p2enjoy.studio" />
-    <updated>2023-07-25T19:41:20+02:00</updated>
+    <updated>2024-02-08T14:08:29+01:00</updated>
     <author>
         <name>Martino BETTUCCI</name>
     </author>
     <id>https://p2enjoy.studio</id>
 
     <entry>
-        <title>Alternance/Stagiaire Développeur Unity</title>
+        <title>Résultat Business Game 06/02</title>
         <author>
             <name>Martino BETTUCCI</name>
         </author>
-        <link href="https://p2enjoy.studio/alternantstagiaire-en-conception-3d-pour-jeu-unity-2/"/>
-        <id>https://p2enjoy.studio/alternantstagiaire-en-conception-3d-pour-jeu-unity-2/</id>
-            <category term="Careers"/>
+        <link href="https://p2enjoy.studio/resultat-business-game-0602/"/>
+        <id>https://p2enjoy.studio/resultat-business-game-0602/</id>
+            <category term="Hackatons &amp; Business Game"/>
 
-        <updated>2023-07-25T19:41:20+02:00</updated>
+        <updated>2024-02-08T14:08:29+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://p2enjoy.studio/media/posts/31/hero-squad-2.png" alt="" />
-                    Lieu : À distance ou sur le site de l’école partenaire. Des déplacements occasionnels dans toute la France seront nécessaires&hellip;
+                    Voici le podium pour les gagnants, du business game du 08/02 : 1er - Groupe 7 : Relook ton retraité&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://p2enjoy.studio/media/posts/31/hero-squad-2.png" alt="" />
-                <p><strong>Lieu</strong> : À distance ou sur le site de l’école partenaire. Des déplacements occasionnels dans toute la France seront nécessaires pour des démonstrations, des salons de promotion, etc.</p>
-<p><strong>Date de début</strong> : Rentrée 2023</p>
-<p><strong>Description de l’entreprise</strong> : 
-Rejoignez COLORIA, un acteur clé du marché de la blockchain et du metaverse. Nous sommes une équipe dédiée à la création d’un monde virtuel immersif et inclusif, propulsé par la technologie blockchain de Ternoa. Notre projet a un fort impact social et offre un environnement de travail innovant et novateur.</p>
-<p><strong>Description du poste</strong> : 
-En tant que développeur Unity en alternance ou stagiaire, vous participerez activement au développement de notre metaverse. Vous travaillerez en étroite collaboration avec notre équipe de développement pour créer des expériences immersives et interactives dans notre monde virtuel.</p>
-<p><strong>Responsabilités</strong> :</p>
-<ul>
-<li>Développer et optimiser des fonctionnalités 3D pour notre metaverse en utilisant Unity.</li>
-<li>Collaborer avec l’équipe de développement pour concevoir et implémenter des solutions techniques.</li>
-<li>Participer à des démonstrations et des salons de promotion.</li>
-</ul>
-<p><strong>Compétences requises</strong> :</p>
-<ul>
-<li>Connaissance de Unity 3D.</li>
-<li>Connaissance de base du langage de programmation JavaScript.</li>
-<li>Capacité à travailler en équipe et à collaborer efficacement avec d’autres développeurs.</li>
-<li>Capacité à apprendre rapidement et à s’adapter à de nouvelles technologies.</li>
-</ul>
-<p><strong>Qualifications</strong> :</p>
-<ul>
-<li>Étudiant en informatique, en développement de jeux ou dans un domaine connexe.</li>
-<li>Expérience avec Unity 3D est un plus.</li>
-</ul>
-<p><strong>À noter</strong> : 
-La motivation est le critère de sélection principal pour ce poste. Si vous avez des lacunes en matière de compétences, ne vous inquiétez pas ! Notre équipe est prête à vous former et à vous aider à vous développer professionnellement.</p>
-<p>Si vous êtes passionné par le développement de jeux, la technologie blockchain et que vous souhaitez faire partie d’un projet innovant et à fort impact social, nous aimerions vous rencontrer. Postulez dès aujourd’hui pour rejoindre notre équipe !</p>
-
+                <h3>Voici le podium pour les gagnants, du business game du 08/02 :</h3>
+<p><br>1er - Groupe 7 : <strong>Relook ton retraité </strong><br>2e - Groupe 4 : <strong>Handi'Mouv</strong><br>3e - Groupe 8 : <strong>UCOlympiades</strong><br><br><span style="text-decoration: underline;"><em>Le groupe gagnant sera recontacter pour aider au bon déroulement de son projet !</em></span></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Alternant/Stagiaire en Conception 3D pour Jeu Unity</title>
+        <title>Chronologie Salons</title>
         <author>
             <name>Martino BETTUCCI</name>
         </author>
-        <link href="https://p2enjoy.studio/alternantstagiaire-en-conception-3d-pour-jeu-unity/"/>
-        <id>https://p2enjoy.studio/alternantstagiaire-en-conception-3d-pour-jeu-unity/</id>
-            <category term="Careers"/>
+        <link href="https://p2enjoy.studio/chronologie-salons/"/>
+        <id>https://p2enjoy.studio/chronologie-salons/</id>
+            <category term="Salons &amp; Rencontre"/>
 
-        <updated>2023-07-25T19:38:06+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://p2enjoy.studio/media/posts/30/colorians-footer.png" alt="" />
-                    Entreprise : P2Enjoy pour C0loria Lieu : À distance ou sur le site de l’école partenaire avec des déplacements occasionnels&hellip;
-                ]]>
-            </summary>
+        <updated>2024-02-07T11:35:24+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://p2enjoy.studio/media/posts/30/colorians-footer.png" alt="" />
-                <p><strong>Entreprise</strong> : P2Enjoy pour C0loria</p>
-<p><strong>Lieu</strong> : À distance ou sur le site de l’école partenaire avec des déplacements occasionnels dans toute la France pour des démonstrations, des salons de promotion, etc.</p>
-<p><strong>Date de début</strong> : Rentrée 2023</p>
-<p><strong>Description du poste</strong> :</p>
-<p>C0loria, un acteur clé du marché des métaverses et de la blockchain, recherche un alternant ou un stagiaire passionné par la conception 3D et le développement de jeux. Vous travaillerez sur des projets innovants et socialement impactants, en utilisant Unity et Blender pour créer des modèles 3D pour notre metaverse.</p>
-<p><strong>Responsabilités</strong> :</p>
-<ul>
-<li>Créer et optimiser des modèles 3D pour une utilisation dans Unity.</li>
-<li>Assurer la compatibilité et l’exportation sans perte des modèles 3D vers Blender.</li>
-<li>Collaborer avec l’équipe de développement pour intégrer les modèles 3D dans le jeu.</li>
-<li>Participer à des démonstrations et des salons de promotion.</li>
-</ul>
-<p><strong>Compétences requises</strong> :</p>
-<ul>
-<li>Expérience avec Unity et Blender.</li>
-<li>Connaissance de la conception et de l’optimisation de modèles 3D.</li>
-<li>Capacité à travailler en équipe et à collaborer sur des projets.</li>
-<li>Motivation et passion pour la conception 3D et le développement de jeux.</li>
-</ul>
-<p><strong>À noter</strong> :</p>
-<p>Chez C0loria, nous valorisons la motivation avant tout. Si vous avez des lacunes en termes de compétences, nous sommes prêts à vous fournir la formation nécessaire pour vous aider à réussir. Vous aurez l’occasion de travailler dans un environnement innovant et novateur, sur un projet qui a un fort impact social.</p>
-<p>Si vous êtes passionné par la conception 3D et que vous souhaitez faire partie d’une équipe dynamique et innovante, nous aimerions vous entendre. Postulez dès aujourd’hui pour rejoindre l’équipe C0loria !</p>
-<p><strong>Comment postuler</strong> :</p>
-<p>Veuillez envoyer votre CV et votre portfolio à <a href="mailto:&#x63;&#x6f;&#x6e;&#x74;&#x61;&#99;&#116;&#64;&#x70;&#50;&#x65;&#x6e;&#106;&#x6f;&#121;&#x2e;&#115;&#x74;&#x75;&#100;&#105;&#111;">&#x63;&#x6f;&#x6e;&#x74;&#x61;&#99;&#116;&#64;&#x70;&#50;&#x65;&#x6e;&#106;&#x6f;&#121;&#x2e;&#115;&#x74;&#x75;&#100;&#105;&#111;</a> ou contactez-nous via la page de l’entreprise <a href="https://www.linkedin.com/company/p2enjoy">https://www.linkedin.com/company/p2enjoy</a> avec le sujet “Candidature pour le poste d’alternant/stagiaire en conception 3D”.</p>
-
+                <div class="post__iframe"><iframe loading="lazy" width="1000" height="900" src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1b4so1h_ZNHnXSPQairlUZ3L5j-iKWlsTRznlilvRtGA&amp;font=Default&amp;lang=fr&amp;initial_zoom=2&amp;height=650" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" frameborder="0"></iframe></div>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Web3Lille - Académie IA</title>
+        <title>Méthode d&#x27;Enseignement SPORT : Stimuler les Capacités Cérébrales pour une Transmission Efficace</title>
         <author>
             <name>Martino BETTUCCI</name>
         </author>
-        <link href="https://p2enjoy.studio/web3lille-academie-ia/"/>
-        <id>https://p2enjoy.studio/web3lille-academie-ia/</id>
+        <link href="https://p2enjoy.studio/methode-denseignement-sport-stimuler-les-capacites-cerebrales-pour-une-transmission-efficace/"/>
+        <id>https://p2enjoy.studio/methode-denseignement-sport-stimuler-les-capacites-cerebrales-pour-une-transmission-efficace/</id>
+        <media:content url="https://p2enjoy.studio/media/posts/133/1707010078419.jpeg" medium="image" />
+            <category term="Martino Bettuci"/>
 
-        <updated>2023-04-13T16:14:01+02:00</updated>
+        <updated>2024-02-05T11:42:20+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://p2enjoy.studio/media/posts/29/possessed-photography-U3sOwViXhkY-unsplash.jpg" alt="" />
-                    En vous abonnant à notre liste blanche, vous aurez accès à des ressources exclusives, à une instruction personnalisée et à&hellip;
+                        <img src="https://p2enjoy.studio/media/posts/133/1707010078419.jpeg" alt="" />
+                    Je vous présente la méthode de transmission que j'ai élaboré et que je demande de opérer au sein de P2Enjoy&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://p2enjoy.studio/media/posts/29/possessed-photography-U3sOwViXhkY-unsplash.jpg" alt="" />
-                <p>En vous abonnant à notre liste blanche, vous aurez accès à des ressources exclusives, à une instruction personnalisée et à une technologie de pointe qui vous aideront à atteindre vos objectifs plus rapidement et plus efficacement que jamais auparavant.</p>
-<p>Ne manquez pas cette opportunité de rejoindre une communauté de personnes partageant les mêmes idées et de rester à la pointe des dernières avancées dans votre domaine. Abonnez-vous à notre liste blanche dès maintenant et laissez-nous vous aider à améliorer vos compétences !</p>
-<p class="align-center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSedDXHgT2pK3fgV8fH50sE4w0zBOjsJ5KTYb0cJKN9UP3epHw/viewform?usp=pp_url&amp;entry.474934262=Moi+je+suis+l%C3%A0+pour+la+whitelist+de+l'academie+assist%C3%A9e+par+IA.++%F0%9F%A4%96+%F0%9F%A4%96" target="_blank" rel="noopener noreferrer">Acceder au formulaire de Whitelist</a></p>
+                    <p><img src="https://p2enjoy.studio/media/posts/133/1707010078419.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Je vous présente la méthode de transmission que j'ai élaboré et que je demande de opérer au sein de <a class="app-aware-link " target="_self" href="https://www.linkedin.com/company/p2enjoy/" data-test-app-aware-link="">P2Enjoy SAS</a> mais aussi chez nos sous-traitants mandatés.<br><br>🏈 Il s'agit de la méthode <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=sport&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7160172742615449601" data-test-app-aware-link=""><span aria-hidden="true">#</span>SPORT</a> 🤗, basée sur les neurosciences (merci à ma compagne qui a fait <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=psychologie&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7160172742615449601" data-test-app-aware-link=""><span aria-hidden="true">#</span>psychologie</a> en plus que science de l'<a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=enseignement&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7160172742615449601" data-test-app-aware-link=""><span aria-hidden="true">#</span>enseignement</a>!) : les areas du cerveaux dédiées à l'apprentissage, à la généralisation, à l'assimilation, à la persistance sont stimulées par phases afin de favoriser la rétention d'informations. Le méthode prends en compte aussi le gradient du taux d'attention dans le temps et favorise les pauses brèves et régulières: une pause de 2 à 5 minutes est encouragée entre un passage de phase et un autre. <br>Enfin les enseignants sont évalués par les élèves au terme de leur capacité de transmission au même titre que ce derniers sont évalués sur les compétences acquises.<br><br>⚽ La <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=m%C3%A9thodologie&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7160172742615449601" data-test-app-aware-link=""><span aria-hidden="true">#</span>Méthodologie</a> d'<a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=enseignement&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7160172742615449601" data-test-app-aware-link=""><span aria-hidden="true">#</span>Enseignement</a> - SPORT (de mon invention et documentée en 2015 dans mes années au <a class="app-aware-link " target="_self" href="https://www.linkedin.com/company/iutdelaval/" data-test-app-aware-link="">IUT de Laval</a>), suit un schéma simple et efficace: les étapes ne doivent pas nécessairement se suivre et peuvent s'entremêler ainsi que les durées indiquées ne sont là que pour donner des proportions d'application sur un parcours.<br><br>🏉 J'applique cette méthode depuis 9 ans maintenant dans +10 établissements avec une bonne réponse des élèves et des écoles qui l'ont adoptée.<br><br>Qu'en pensez-vous? Vous voulez voir les résultats s'appliquer dans vos établissements? Prenez contact 😊 </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>📣🚀NFT Paris 2023</title>
+        <title>Headn Paris : Expertise en Formation Professionnelle dans les domaines de l&#x27;IA, Blockchain, Business Web et Gamification</title>
         <author>
             <name>Martino BETTUCCI</name>
         </author>
-        <link href="https://p2enjoy.studio/nft-paris-2023/"/>
-        <id>https://p2enjoy.studio/nft-paris-2023/</id>
-            <category term="📅 Events"/>
+        <link href="https://p2enjoy.studio/headn-paris-expertise-en-formation-professionnelle-dans-les-domaines-de-lia-blockchain-business-web-et-gamification/"/>
+        <id>https://p2enjoy.studio/headn-paris-expertise-en-formation-professionnelle-dans-les-domaines-de-lia-blockchain-business-web-et-gamification/</id>
+            <category term="Martino Bettuci"/>
 
-        <updated>2023-03-05T17:54:14+01:00</updated>
+        <updated>2024-02-05T11:40:56+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://p2enjoy.studio/media/posts/28/NftParisAffiche.jpg" alt="" />
-                    <p>Ce weekend, la seconde édition de NFT Paris s'est déroulée au Grand Palais Éphémère, rassemblant les plus grands noms de l'industrie NFT, ainsi que les dirigeants des plus grandes marques qui utilisent cette technologie pour réinventer leurs modèles. 🤝</p>
-<p>Nous y avons assisté en mission reporter pour "Ethereum France" pour couvrir l'événement et vous partager les dernières nouvelles de l'écosystème NFT. 📰</p>
-
+                    J’ai le plaisir de vous annoncer que j'officialise nos missions de jury, intervenants et co-auteurs de formation "IA", "Blockchain", "Business&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://p2enjoy.studio/media/posts/28/NftParisAffiche.jpg" alt="" />
-                
-<p>🎨🎧🎮💎🌍 L'événement incontournable de la révolution créative apportée par les NFT (jetons non fongibles) s'est déroulé les 24 et 25 février au <strong>Grand Palais Éphémère de Paris</strong>. La seconde édition de NFT Paris a rassemblé les acteurs les plus influents de ce secteur pour mesurer l'impact de la technologie sur les différentes industries créatives telles que l'art ainsi que les dirigeants des plus grandes marques qui utilisent cette technologie pour réinventer leurs modèles dans la musique, la mode, le luxe et les jeux vidéos. 💻🔝</p>
-<p><span style="text-decoration: underline;"><strong>P2Enjoy</strong></span>, en mission de reporter pour "Ethereum France", était présent pour couvrir l'événement et a partagé les dernières nouvelles de l'écosystème NFT. 📰</p>
-<p>🎙️ Des conférences ont réuni les pionniers de l'écosystème tels que Erick Calderon, CEO et fondateur de Art Blocks, John Crain, CEO et fondateur de SuperRare, Greg Solano, fondateur de Bored Ape Yacht Club et Yuga Labs, ainsi que Sébastien Borget, COO et fondateur de The Sandbox. 💡</p>
-<p class="msg msg--info">Le compte Twitter officiel de NFT Paris a rapporté un total de <span style="text-decoration: underline;"><strong>18 000</strong></span> visiteurs sur ces deux jours dédiés à l'écosystème NFT et aux individus qui en sont les rouages.</p>
-<p>Malgré quelques grognements concernant la logistique de l'événement (la gestion des entrées à l'arrivéé, très longue; les difficultés avec les billets électroniques...), l'ensemble a été très positif. 💯 </p>
-<p>Les participants ont eu l'opportunité de rencontrer les acteurs les plus influents de ce secteur et de mesurer l'impact de la technologie sur les différentes industries créatives, notamment l'art, la musique, la mode, le luxe et les jeux vidéo. Les conférences ont rassemblé d'autres pionniers (autres que les sus-cités) de l'écosystème comme Krista Kim, artiste, Inna Modja, Directrice philanthropie de World of Women, Benoit Pagotto, fondateur de RTFKT, Tom Sachs, artiste, Camille Kroely, Directrice Digital Innovation L'Oréal, Ian Rogers, CXO de Ledger et ancien Directeur Digital LVMH. 🎙️</p>
-<p>Les espaces d'exposition ont également présenté les sociétés les plus innovantes ainsi que des installations artistiques des artistes les plus reconnus. Cette immersion complète dans le monde des NFT a permis aux participants d'en apprendre davantage sur les dernières innovations en matière de NFT, ainsi que sur les opportunités qu'offre l'écosystème NFT. 🌐</p>
-<p><strong>L'événement a également abordé le paradoxe entre l'industrie du luxe et les NFT, mettant en avant que l'industrie du luxe, souvent conservatrice et méfiante des innovations dites "disruptives", est en fait la plus engagée dans le secteur des NFTs. 💼</strong></p>
-<p>Le ministre délégué chargé de la Transition numérique, Jean-Noël Barrot en visite le premier jour d'exposition, a même déclaré que la France était "la place la plus dynamique pour l'écosystème Web3 en Europe, et probablement dans le monde" (cit-). 🇫🇷</p>
-<h2>Nos coups de coeur</h2>
-<p>🖼️ Des installations artistiques ont été présentées par les artistes les plus reconnus, tels que Tom Sachs, qui a présenté "NFT Paradox", une installation artistique qui questionne la relation entre l'art et la technologie. 💥🎨</p>
-<p>👨‍🎓🎟️ La gratuité des tickets offerte aux étudiants a permis à des étudiants profanes de découvrir cet écosystème qui peut sembler complexe à première vue, tout en offrant une opportunité unique pour les étudiants déjà bien informés sur le sujet. ⏰</p>
-<hr>
-<div class="w-full border-b border-black/10 dark:border-gray-900/50 text-gray-800 dark:text-gray-100 group bg-gray-50 dark:bg-[#444654]">
-<div class="text-base gap-4 md:gap-6 m-auto md:max-w-2xl lg:max-w-2xl xl:max-w-3xl p-4 md:py-6 flex lg:px-0">
-<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
-<div class="flex flex-grow flex-col gap-3">
-<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
-<div class="markdown prose w-full break-words dark:prose-invert dark">
-<p>📰 P2Enjoy, pour le compte de Ethereum France, a mené un reportage sur l'événement et a pu rencontrer les acteurs clés de l'écosystème NFT pour discuter de l'avenir de cette technologie révolutionnaire. 🎤🎥</p>
-<p>Nous avons donc eu l'occasion d'échanger pendant quelque minute en tête-à-tête avec quelques une des personnalités présents dans les stands mais aussi parmis les visiteurs.</p>
-<p>Nous les avons rencontrés, les avons laissés parler pendant <span style="text-decoration: underline;"><em>au moins deux</em></span><em> </em>minutes sans interruption, nous les avons incités à ne pas s'arrêter avant ce délais: nous avons appris énormément de leur passion et des leurs envies autour de l'écosystème.</p>
-<p class="msg msg--success align-right">Voici leurs portraits.</p>
-<h3>Anaelle Guez - Co-Founder chez Weblock | VP chez Women In Web3</h3>
-<p class="align-right"><strong>A l'allure assurée, elle nous livre sans filtre son objectif futur et ses accomplissements.</strong></p>
-<p><span style="font-weight: 400;">Elle nous parle de son association "Woman in Web 3", fondée il y a un peu moins d'un an (</span><i><span style="font-weight: 400;">ndr: elles avaient un petit stand près de l'entrée, impossible de les manquer avec leurs grands sourires et leur envie de partager leur passion</span></i><span style="font-weight: 400;">). Leur objectif est de rendre facile et aisée l'insertion des femmes dans le #Web3 via l'organisation d'événements, la mise en relation entre (mais pas que des) femmes et plus généralement tout acteur ou actrice de l'écosystème ouvert à contribuer à leur cause. Elle nous raconte la genèse de leur popularité en Juin dernier avec </span><strong>The Sandbox</strong><span style="font-weight: 400;"> qui les a aidées à organiser un événement ayant regroupé +200 femmes. Ceci a été le premier d'une série avec d'autres grands partenaires comme Avalanche, </span><strong>Tezos</strong><span style="font-weight: 400;"> et </span><strong>Morpho</strong><span style="font-weight: 400;">. </span></p>
-<p><span style="font-weight: 400;">Si vous souhaitez contribuer et faire partie de leurs réseaux de partenaires, contactez Anaelle via LinkedIn et participez à leurs groupes de discussions Telegram.</span></p>
-<p><a href="https://www.linkedin.com/in/anaelle-guez-ab341746/">LinkedIn</a> <a href="https://www.womeninweb3paris.com/">Website</a></p>
-<hr>
-<h3>Nathan Lefeuvre - Chargée de marketing chez Alyra</h3>
-<p class="align-right"><strong>Souriant, son enthusiasme nous a livré un chemin très riche.</strong></p>
-<p><span style="font-weight: 400;">Il tient à nous rappeler l'étendue des formations Alyra, du développeur au expert DeFi sous 12 semaines. Il est fier d'annoncer la mise en place des nouvelles formations de 6 semaines à destination des besoins le plus opérationnel comme lancer une collection NFT ou réussir sa stratégie pour lancer un token; ces formations sont des spécialisations pour les élèves ayant déjà un parcours ou des connaissances dans le domaine. </span><strong>Alyra crois dans l'écosystème français</strong><span style="font-weight: 400;"> et ils s'adressent à ce public en offrant des formations complètes en français. Il nous annonce avoir formé (ndr: pas lui personnellement 😇) plus de 1400 apprenants et avoir lié plus de 150 partenariats</span>. </p>
-<p><a href="https://www.linkedin.com/in/nethax/">LinkedIn</a> <a href="https://www.alyra.fr/">Website</a></p>
-<hr>
-<h3>David Cingala - CTO et Co-Founder chez Immortal Game</h3>
-<p class="align-right"><strong>Semblant peu à l'aise au début, il a su nous charmer par sa passion et son énergie.</strong></p>
-<p class="align-left"><span style="font-family: var(--font-serif); color: var(--text-primary-color); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="font-weight: 400;">Il nous parle avec passion du jeu des échecs et de la DeFi, dont il a forgé ses origines dans l'industrie. Il est tellement modeste qu'il nous dit "..avoir pris un jeu avec des règles déjà existante pour se lancer dans le Web3.."; En vrai </span><strong>The Immortal Game</strong><span style="font-weight: 400;"> est très innovant et engageant. Ils nous décrit son jeu comme un jeu d'échecs réactualisé et à la sauce web3: les "immortels" sont des NFT élégants qui représentent des pièces d'échecs spécifiques, liées à des quêtes optionnelles favorisant des styles de jeu particuliers. Fier de sa communauté, il nous présente ses invités de son stand  des joueurs professionnels de chessboard de carrière internationale</span>. </span></p>
-<p><a href="https://www.linkedin.com/in/david-cingala-164a50b0/">LinkedIn</a> <a href="https://immortal.game/">Website</a></p>
-<hr>
-<h3>Dounia Hadbi. - Project Manager chez Cross The Ages</h3>
-<p class="align-right"><strong>Malgré la peur d'avoir peu de choses à dire" (cit-), nous avons été aspirés par son histoire dans le monde du divertissement.</strong></p>
-<p>Elle a intégré le projet il y a un peu près un an et demi, nous raconte être passionnée par le jeu vidéo, les jeux de collection et les challenges humains. Elle raconte avec fierté les mécaniques de son jeu qui compte déjà plus de 7 volumes, plus de 10 ans d'aventures planifiées et une grande communauté. Fier des origines “franco-françaises basées à Marseille” (cit-) et heureuse d'être présente aujourd'hui à cet événement.</p>
-<p><a href="https://www.linkedin.com/in/douniahadbi/">LinkedIn</a> <a href="https://www.crosstheages.com/">Website</a></p>
-<hr>
-<h3>Clément Foucher - Co-Founder chez Metav.rs</h3>
-<p class="align-right"><strong>Humble et sans prétention, il a préféré nous parler de son projet et un peu moins de lui: une prochaine fois? :-)</strong></p>
-<p><span style="font-weight: 400;">Il nous présente son projet qui représente la frontière entre </span><strong>gaming social et commerce</strong><span style="font-weight: 400;">; il nous dit travailler qu'avec des grandes comptes sans s'adresser aux particuliers pour le moment; fier de sa levée de 3M, il nous informe qu'il est ouvert à accompagner toute entreprise à rejoindre leurs objectifs (quels qu'ils soient) via une étude personnalisé et calqué sur les besoins de leurs clients</span>. </p>
-<p><a href="https://www.linkedin.com/in/clementfoucher/?originalSubdomain=fr">LinkedIn</a> <a href="https://metav.rs/">Website</a></p>
-<hr>
-<h3>Fréderic Montagnons - Founder chez Arianee</h3>
-<p class="align-right"><strong>Extrêmement accessible et sympathique, il nous a tellement mis à l'aise que nous nous sommes tutoyés dès la première phrase!</strong></p>
-<p><span style="font-weight: 400;">Ingénieur depuis une vingtaine d'années et entrepreneur de succès depuis autant de temps, il est passionné par l'envie de partager et faire connaître l'univers du Web3 à tout public. Il est persuadé que la réappropriation des assets numériques est l'avenir et qu'à travers les marques il sera possible d'éduquer et amener le grand public vers cette révolution. Le Web3 doit devenir "accessible dans la vie de tous les jours, (au point que) même ma mère doit pouvoir s'en servir tout en apercevant l'utilité" (cit-) </span>.</p>
-<p><a href="https://www.linkedin.com/in/fredericmontagnon/">LinkedIn</a> <a href="https://arianee.org/">Website</a></p>
-<hr>
-<h3>Dominique Prasivoravong - Co-Founder chez HelloToken.io</h3>
-<p class="align-right"><strong>Près de l'entrée de l'événement, nous rencontrons Dominique parmi les invités à cet événement et il nous livre son histoire.</strong></p>
-<p><em><span style="font-weight: 400;">Il commence d'entrée par nous annoncer que "tout le monde m'appelle `Dom`" (cit-) et insiste pour que l'on fasse de même. HelloToken.io est son média, qu'il a fondé et dont il tient à déclarer indépendant. Ayant un</span><i><span style="font-weight: 400;"> double profil universitaire Finance/RH, il sauté à pieds joints dans le "rabbit hole" (cit-) du Web3. Il a passé ses deux minutes de microphone à faire l'éloge de ses coéquipiers tels que "le sorcier de Solidity" (cit-) concernant "Simon" (son CTO) et "les experts ultimes des réseaux" concernant ses rédacteurs. Nous avons été conquis par sa personnalité.</span></i> <br></em></p>
-<p><a href="https://www.linkedin.com/in/dominiqueprasivoravong/">LinkedIn</a> <a href="https://hellotoken.io/">Website</a></p>
-<hr>
-<h3>Nicolas Romero - Founder chez Futures Factory</h3>
-<p class="align-right"><span style="color: #f2f2f5;"><strong>Il nous parle de sneakers et créateurs, il a l'envie de partager sa réussite avec tous les méritants de l'écosystème.</strong></span></p>
-<p><span style="font-weight: 400;">Il nous explique qu'il s'est lancé l'année dernière et qu'il est agréablement surpris du succès fulgurant de son projet. Après avoir expliqué son produit au délà de l'aspect de </span><strong>growth marketing</strong><span style="font-weight: 400;"> des marques qu'il accompagne, il est heureux de pouvoir annoncer son engagement à financer les meilleurs designers "à hauteur de 25% des bénéfices de la plateforme" (cit-) et aider ainsi les fans de </span><i><span style="font-weight: 400;">sneakers</span></i><span style="font-weight: 400;"> mais aussi des collections NFT à se lancer avec des finances, une communauté active et la force de son produit.</span></p>
-<p><a href="https://www.linkedin.com/in/santoromero/">LinkedIn</a> <a href="https://futures-factory.com/">Website</a></p>
-<hr>
-<h3>Flavien Defraire - Director of Global Development chez Blockchain Gaming Alliance</h3>
-<p class="align-right"><strong>Soucieux d'être acteur de la prochaine révolution gaming, il a su nous transmettre son engagement pour le partage et l'engagement.</strong></p>
-<p><span style="font-weight: 400;">Flavien nous raconte son parcours professionnel axé sur le marketing digital.  Il est passionné par la blockchain et son impact dans l'industrie du jeu vidéo (ndr: il a par le passé créé le blog et le podcast "Le Son Dopamine"). Aujourd'hui il aime mettre ses talents au service des adhérents de son association, notamment il les aide à atteindre leurs objectifs de performance, de visibilité et d'engagement. Et ce ne sont pas des paroles en l'air car il est accompagné de quatre projets qu'il promeut sur son stand "gratuitement" (cit-). Il a été très patient et très pédagogue dans ses explications. Il nous a convaincus de rejoindre l'association, pour tout vous dire.</span> </p>
-<p><a href="https://www.linkedin.com/in/flaviendefraire/">LinkedIn</a> <a href="https://www.blockchaingamealliance.org/">Website</a></p>
-<hr>
-<p>Merci d'avoir lu notre réportage et à bientôt pour un prochain événément!</p>
-<p class="align-right">Because it's <strong>P</strong>(ress)<strong>2E</strong>(njoy).</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+                <p>J’ai le plaisir de vous annoncer que j'officialise nos missions de jury, intervenants et co-auteurs de formation "IA", "Blockchain", "Business Web" et "Gamification" au seins de <a class="app-aware-link " target="_self" href="https://www.linkedin.com/company/headn/" data-test-app-aware-link="">Headn</a> Paris.<br><br>Je remercie <a href="https://www.linkedin.com/in/yoann-dufour-formateur-cybersecurite/" id="ember2311" class="ember-view">Yoann Dufour🛡️🖥️</a> pour l'immense confiance qui nous a confié, c'est aussi l'occasion de remercier mon cher ami <a href="https://www.linkedin.com/in/romain-bailleul/" id="ember2312" class="ember-view">Romain Bailleul 🧢🚀</a> puisque c'est grâce à ce <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=businessman&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>businessman</a> que j'ai eu l'occasion de rencontrer Yoann.<br><a class="app-aware-link " target="_self" href="https://www.linkedin.com/company/headn/" data-test-app-aware-link="">Headn</a> est partenaire de la <a class="app-aware-link " target="_self" href="https://www.linkedin.com/company/bb-school/" data-test-app-aware-link="">Blockchain Business School</a>, établissement dont nous sommes heureux de co-intervenir en parallèle dans les sujets d'innovation comme la formation en <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=ia&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>IA</a> avec <a href="https://www.linkedin.com/in/nicolas-deschamps-web3-ia/" id="ember2313" class="ember-view">Nicolas Deschamps</a>.<br><br>Chez <a class="app-aware-link " target="_self" href="https://www.linkedin.com/company/p2enjoy/" data-test-app-aware-link="">P2Enjoy SAS</a> nous dispensons et rédigeons (en autonomie ou ensemble avec votre personnel pédagogique) tous vos besoins en parcours de <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=formation&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>formation</a> <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=professionnelle&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>professionnelle</a> pour votre établissement; nous disposons de toutes les <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=qualifications&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>qualifications</a> pour intervenir dans les établissements tant publiques que privés.<br><br>Nos domaines de compétences sont l'IA, la Blockchain, l'Innovation et le Conseil ou Accompagnement aux Entreprises dans ces domaines.<br><br><a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=masterclass&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>Masterclass</a>, <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=ateliers&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>Ateliers</a> pratiques dirigés, <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=expertise&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>Expertise</a> et <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=conseils&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>Conseils</a>, organisation de <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=forum&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>Forum</a> de discussion avec les professionnels du secteurs sur vos sujets de prédilection, <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=formations&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>Formations</a> professionnelle complètes sur mésure, Mise à disposition d'intervenants à haute compétence et plus encore (<a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=hackathons&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>Hackathons</a>, <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=evenementiel&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159674339691233280" data-test-app-aware-link=""><span aria-hidden="true">#</span>Evenementiel</a>, ...) font partie de nos atouts: n'hésitez pas à rentrer en contact ! 😍 <br><br>Pour la liste de nos collaborations, ce profil reste à jour avec le début de chaque collaboration (en attendant le nouveau site 😋)et nous avons des annonces qui vont suivre toute l'année 2024 déjà!<br><br>Toutes nos formations sont livrée avec leurs Syllabi, les Livrets d'Accompagnement, un E-book avec l'ensemble du contenu dispensé et à dispositions des participants de nos sessions ainsi que toute l'expertise dont nous disposons à votre service.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>About the academy</title>
+        <title>Compilations d&#x27;e-books de formations professionnelles chez Headn : Une nouvelle ère d&#x27;apprentissage accessible à tous</title>
         <author>
             <name>Martino BETTUCCI</name>
         </author>
-        <link href="https://p2enjoy.studio/about-the-academy/"/>
-        <id>https://p2enjoy.studio/about-the-academy/</id>
+        <link href="https://p2enjoy.studio/compilations-de-books-de-formations-professionnelles-chez-headn-une-nouvelle-ere-dapprentissage-accessible-a-tous/"/>
+        <id>https://p2enjoy.studio/compilations-de-books-de-formations-professionnelles-chez-headn-une-nouvelle-ere-dapprentissage-accessible-a-tous/</id>
+        <media:content url="https://p2enjoy.studio/media/posts/131/1706973969855.png" medium="image" />
+            <category term="Martino Bettuci"/>
 
-        <updated>2023-02-24T01:39:55+01:00</updated>
+        <updated>2024-02-05T11:39:30+01:00</updated>
             <summary>
                 <![CDATA[
-                    Easy to apply so that anyone from any professional or educational background can understand it and use it in their&hellip;
+                        <img src="https://p2enjoy.studio/media/posts/131/1706973969855.png" alt="" />
+                    A l'occasion de nos interventions de #formation professionnelle chez Headn via P2Enjoy SAS (merci Yoann Dufour🛡️🖥️ pour ta confiance), j'ai décidé de compiler et rendre disponible sous le&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Easy to apply so that anyone from any professional or educational background can understand it and use it in their daily lives.</p>
+                    <p><img src="https://p2enjoy.studio/media/posts/131/1706973969855.png" class="type:primaryImage" alt="" /></p>
+                <p>A l'occasion de nos interventions de <a href="https://www.linkedin.com/feed/hashtag/?keywords=formation&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159607475254534144" data-attribute-index="0">#formation</a> professionnelle chez <a href="https://www.linkedin.com/company/headn/" data-attribute-index="1" data-entity-type="MINI_COMPANY">Headn</a> via <a href="https://www.linkedin.com/company/p2enjoy/" data-attribute-index="3" data-entity-type="MINI_COMPANY">P2Enjoy SAS</a> (merci <a href="https://www.linkedin.com/in/ACoAAAZoZbUBUrZRSZD4h3eNQg_nIAIIUlMSN5E" data-attribute-index="5" data-entity-type="MINI_PROFILE">Yoann Dufour🛡️🖥️</a> pour ta confiance), j'ai décidé de compiler et rendre disponible sous le format e-book nos formations. 📚 📖 📔<br><br>Nous allons publier les une après les autres les formations passées délivrées chez les instituts qui nous font confiance: nos interventions sont toujours suivies d'une livraison d'un ouvrage complet qui résume le contenu de formations délivrées: ces e-book qui n'étaient jusqu'à présent disponibles que pour les étudiants ayant suivi le parcours, seront adapté à un public plus large et mis à disposition à la vente du plus grand nombre. 😊<br><br>Lien du store <a href="https://www.linkedin.com/company/fiverr-com/" data-attribute-index="7" data-entity-type="MINI_COMPANY">Fiverr</a>: <a href="https://lnkd.in/ebFAuDFW" data-attribute-index="9" target="_self">https://lnkd.in/ebFAuDFW</a><br><br>Si vous êtes intéressés par nos services de formation, <a href="https://www.linkedin.com/feed/hashtag/?keywords=conferences&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159607475254534144" data-attribute-index="10">#conferences</a>, <a href="https://www.linkedin.com/feed/hashtag/?keywords=masterclass&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159607475254534144" data-attribute-index="11">#masterclass</a> et <a href="https://www.linkedin.com/feed/hashtag/?keywords=ateliers&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159607475254534144" data-attribute-index="12">#ateliers</a> <a href="https://www.linkedin.com/feed/hashtag/?keywords=professionnels&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7159607475254534144" data-attribute-index="13">#professionnels</a>, n'hésitez pas à prendre contact avec moi ou l'un de mes collaborateurs ☎</p>
+<h1><a href="https://www.linkedin.com/pulse/une-plong%25C3%25A9e-approfondie-dans-le-cadre-octalysis-martino-bettucci-gsgue?trackingId=p8fbW3S4RruKkM153mi8Xw%3D%3D&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BIszqTcvxSFafYNcOiMq%2BDg%3D%3D">Lien de l'Article</a></h1>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>About the gaming</title>
+        <title>Angers Bitcoin Meetup</title>
         <author>
             <name>Martino BETTUCCI</name>
         </author>
-        <link href="https://p2enjoy.studio/the-gaming/"/>
-        <id>https://p2enjoy.studio/the-gaming/</id>
+        <link href="https://p2enjoy.studio/angers-bitcoin-meetup/"/>
+        <id>https://p2enjoy.studio/angers-bitcoin-meetup/</id>
+            <category term="Salons &amp; Rencontre"/>
 
-        <updated>2023-04-13T13:57:32+02:00</updated>
+        <updated>2024-02-02T16:17:45+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Enseignant IUT Angers-Cholet</title>
+        <author>
+            <name>Martino BETTUCCI</name>
+        </author>
+        <link href="https://p2enjoy.studio/enseignant-iut-angers-cholet/"/>
+        <id>https://p2enjoy.studio/enseignant-iut-angers-cholet/</id>
+            <category term="Carrière de Martino"/>
+
+        <updated>2024-02-01T10:40:45+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://p2enjoy.studio/media/posts/26/clem-onojeghuo-kfoSKoWc9Gg-unsplash.jpg" alt="Let&#x27;s play!" />
-                    Si vous êtes intéressé par notre philosophie, vous pouvez lire notre livre blanc sur les jeux vidéo ici. En plus&hellip;
+                    J’ai le plaisir de vous annoncer que je commence un nouveau poste de "Enseignant #Blockchain" auprès de l'IUT Angers-Cholet. Les&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://p2enjoy.studio/media/posts/26/clem-onojeghuo-kfoSKoWc9Gg-unsplash.jpg" alt="Let&#x27;s play!" />
-                <p><em>Si vous êtes intéressé par notre philosophie, <a href="https://p2enjoy.studio/p2enjoy-game-philosophy/">vous pouvez lire notre livre blanc sur les jeux vidéo ici</a>.</em></p>
-<p>En plus de <a href="https://p2enjoy.studio/we-are-the-best-around/">nos valeurs générales,</a> nous avons ajouté deux cas particuliers concernant le gaming :</p>
-<ul>
-<li><a href="https://p2enjoy.studio/shares/">Répartition équitable des parts entre les investisseurs et les joueurs</a> (fini les systèmes de type Ponzi !).</li>
-<li><a href="https://p2enjoy.studio/fun/">Jeux conçus pour durer</a> : amusez-vous pendant des mois !</li>
-</ul>
-<p><em>Vous pouvez déployer, en cliquant dessus, n'importe laquelle de nos valeurs pour obtenir une meilleure explication de notre vision et de notre façon de travailler.</em></p>
-<p><strong>Le plus important</strong> : <span style="text-decoration: underline;">nous voulons que les jeux sur la chaîne de blocs soient écoresponsables et amusants à JOUER</span> ! <strong>D'où le #Enjoy dans le #P2E 🥳</strong></p>
-<p class="align-right">Because it's <strong>P</strong>(lay)<strong>2E</strong>(njoy).</p>
+                <p>J’ai le plaisir de vous annoncer que je commence un nouveau poste de "Enseignant <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=blockchain&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7158213819758993408" data-test-app-aware-link=""><span aria-hidden="true">#</span>Blockchain</a>" auprès de l'<a class="app-aware-link " target="_self" href="https://www.linkedin.com/company/iutangerscholet/" data-test-app-aware-link="">IUT Angers-Cholet</a>.<br><br>Les elèves de la filiale de <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=angers&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7158213819758993408" data-test-app-aware-link=""><span aria-hidden="true">#</span>Angers</a> Génie Electrique et <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=informatique&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7158213819758993408" data-test-app-aware-link=""><span aria-hidden="true">#</span>Informatique</a> Industrielle <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=iut&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7158213819758993408" data-test-app-aware-link=""><span aria-hidden="true">#</span>IUT</a> (<a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=iaa&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7158213819758993408" data-test-app-aware-link=""><span aria-hidden="true">#</span>IAA</a>, <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=eme&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7158213819758993408" data-test-app-aware-link=""><span aria-hidden="true">#</span>EME</a>, <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=ese&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7158213819758993408" data-test-app-aware-link=""><span aria-hidden="true">#</span>ESE</a>) seront formé de façon intensive dans un <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=bootcamp&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7158213819758993408" data-test-app-aware-link=""><span aria-hidden="true">#</span>bootcamp</a> de 37H consécutives sur une semaine au "Développement Blockchain Industriel". </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Our Services</title>
+        <title>Business Game UCO 6 Février</title>
         <author>
             <name>Martino BETTUCCI</name>
         </author>
-        <link href="https://p2enjoy.studio/our-services/"/>
-        <id>https://p2enjoy.studio/our-services/</id>
-            <category term="About"/>
+        <link href="https://p2enjoy.studio/business-game-uco-6-fevrier/"/>
+        <id>https://p2enjoy.studio/business-game-uco-6-fevrier/</id>
+            <category term="Hackatons &amp; Business Game"/>
 
-        <updated>2023-02-24T01:44:39+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Everyone can use decentralised services! 🐀👨‍🍳 Our services are designed to help you get the most out of blockchain and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center"><em>Everyone can use decentralised services! 🐀👨‍🍳</em></p>
-<p>Our services are designed to help you get the most out of blockchain and gaming technology. Whether you're looking to learn about the latest trends and developments, network with industry leaders, or create your own gaming experiences, we have the resources you need to succeed. Our services include:</p>
-<ul>
-<li>Blockchain Academy: Access a wide range of blockchain courses for life and get personal tutoring from our experienced staff.</li>
-<li>Workshops and Conferences: Attend our workshops and conferences to learn about the latest advancements in the industry and network with other like-minded individuals.</li>
-<li>Job Placement: Land your dream job in the industry with our job placement services.</li>
-<li>Consulting: Get expert advice on any aspect of blockchain and gaming, from project management to marketing and beyond.</li>
-<li>Gaming: Join our gaming community to create your own games or explore the latest releases from our talented team.</li>
-</ul>
-            ]]>
-        </content>
+        <updated>2024-01-27T15:11:07+01:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
     <entry>
-        <title>Unleash Your Creativity: H-WEB3</title>
+        <title>IA-WEB3 Event - Troyes 21-22 Septembre 2023</title>
         <author>
             <name>Martino BETTUCCI</name>
         </author>
-        <link href="https://p2enjoy.studio/unleash-your-creativity-h-web3/"/>
-        <id>https://p2enjoy.studio/unleash-your-creativity-h-web3/</id>
-            <category term="🏆 Hackatons"/>
+        <link href="https://p2enjoy.studio/ia-web3-event-troyes-21-22-septembre-2023/"/>
+        <id>https://p2enjoy.studio/ia-web3-event-troyes-21-22-septembre-2023/</id>
+            <category term="Evènement de P2Enjoy"/>
 
-        <updated>2023-02-15T20:40:14+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://p2enjoy.studio/media/posts/24/nahel-abdul-hadi-flha0KwRrRc-unsplash.jpg" alt="" />
-                    👨‍🎓👩‍🎓 À tous les étudiants passionnés de Web3 et de blockchain, ne manquez pas l'événement incontournable de 2023 ! 🔥&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://p2enjoy.studio/media/posts/24/nahel-abdul-hadi-flha0KwRrRc-unsplash.jpg" alt="" />
-                <p>👨‍🎓👩‍🎓 À tous les étudiants passionnés de Web3 et de blockchain, ne manquez pas l'événement incontournable de 2023 ! 🔥<br><br>🏆 Le H-W3B est un hackathon étudiant organisé par <a href="https://www.sia-partners.com/fr/">Sia Partners</a> en collaboration avec <a href="https://tezos.com/">Tezos</a> et <a href="https://exaion.edf.fr/en">Exaion</a>.</p>
-<p>Relevez le défi et concourez pour remporter jusqu'à <strong><span style="text-decoration: underline;">50 000 €</span> </strong>de cashprize et plein d'autres prix incroyables ! 🤑</p>
-<p>💻 Les 48 heures de compétition se dérouleront du 31 mars au 2 avril 2023 dans les locaux de Sia Partners à Paris. Vous serez accompagnés par des coachs et des experts de l'industrie Web3, Blockchain et métavers, dont <strong>P2Enjoy Studio</strong> ! 🤝<br><br>👨‍💻👩‍💻 Les étudiants devront proposer des solutions innovantes pour résoudre des problématiques dans des domaines tels que le <span style="text-decoration: underline;">sport</span>, le <span style="text-decoration: underline;">gaming</span>, les <span style="text-decoration: underline;">arts et la culture</span>, la <span style="text-decoration: underline;">finance</span> et le <span style="text-decoration: underline;">droit</span>. Avec l'appui des partenaires présents comme <em>acadee</em>, <em>Blockchain Business School</em>, <em>La Mine</em>, <em>Ledger</em> et bien sûr <strong>P2Enjoy Studio</strong>, vous aurez toutes les cartes en main pour réussir votre MVP ! 💡</p>
-<h2>Le déroulement</h2>
-<div class="w-full border-b border-black/10 dark:border-gray-900/50 text-gray-800 dark:text-gray-100 group bg-gray-50 dark:bg-[#444654]">
-<div class="text-base gap-4 md:gap-6 m-auto md:max-w-2xl lg:max-w-2xl xl:max-w-3xl p-4 md:py-6 flex lg:px-0">
-<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
-<div class="flex flex-grow flex-col gap-3">
-<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
-<div class="markdown prose w-full break-words dark:prose-invert light">
-<ul>
-<li>💬 Pitch devant un jury d'experts</li>
-<li>📊 Présentation de votre business model et du parcours utilisateur</li>
-<li>💻 Démonstration de votre code source...</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="flex justify-between">
-<div> </div>
-<div class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-3 md:gap-4 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Vous devrez relever de nombreux défis en seulement 48 heures, mais avec l'énergie, la créativité et la passion de la communauté Web3, vous pouvez tout accomplir ! 🔥</span></div>
-</div>
-</div>
-</div>
-</div>
-<h2>CALL-TO-ACTION</h2>
-<p>📆 Inscrivez-vous dès maintenant ! <strong>Les places sont limitées</strong>.<code></code></p>
-<p>Et n'oubliez pas de sélectionner<strong> P2Enjoy Studio</strong> comme partenaire pour bénéficier de notre expertise et de notre soutien tout au long de la compétition.<strong> Nous avons hâte de vous voir briller ! 💫</strong></p>
-<pre><span style="color: #e03e2d;"><strong><span style="text-decoration: underline;"><code>VOUS N'AVEZ QUE JUSQU'AU MERCREDI 22 FEVRIER 18:00 POUR VOUS INSCIRE</code><br><code>NE PERDEZ PAS DE TEMPS!!</code></span></strong></span></pre>
-<blockquote>
-<p>Pour participer à cet hackaton il faut vous inscrire ICI: <br><a href="https://erb2si7756g.typeform.com/h-w3b2023?typeform-source=p2enjoy.studio">FORMULAIRE INSCRIPTION AU "H-W3B 2023"</a></p>
-</blockquote>
-<p><span style="text-decoration: underline;"><em>Nous allons vous tenir au courant des prochains hackatons mais aussi des nos opportunités de formation, de stage ou d'alternance dans le jeux video 🎮 et l'intelligence artificielle 🧠  </em></span>et ça se passe par ici: <br>👉 <a href="https://forms.gle/vETwDkZMMfWkVyrb9">FORM D'INSCRIPTION AUX EVENEMENTS FUTURS!</a></p>
-<p> </p>
-            ]]>
-        </content>
+        <updated>2024-02-02T11:46:42+01:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
     <entry>
-        <title>Opportunité de stage, alternance, travail - Charte des collaborateur</title>
+        <title>Stable Diffusion (année 50)</title>
         <author>
             <name>Martino BETTUCCI</name>
         </author>
-        <link href="https://p2enjoy.studio/job-opportunities/"/>
-        <id>https://p2enjoy.studio/job-opportunities/</id>
-            <category term="Careers"/>
+        <link href="https://p2enjoy.studio/stable-diffusion-annee-50/"/>
+        <id>https://p2enjoy.studio/stable-diffusion-annee-50/</id>
+            <category term="Martino Bettuci"/>
 
-        <updated>2023-07-25T19:26:09+02:00</updated>
+        <updated>2024-01-29T16:30:14+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://p2enjoy.studio/media/posts/23/clem-onojeghuo-fY8Jr4iuPQM-unsplash.jpg" alt="" />
-                    Contactez-nous si vous... Nous sommes impatients de vous accueillir dans notre famille si vous êtes un illustrateur 🎨, un Game&hellip;
+                    Je testais le potentiel de #finetuning de #StableDiffusion #XL, j'ai choisi le thème des années 50 :-) Après avoir entrainé&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://p2enjoy.studio/media/posts/23/clem-onojeghuo-fY8Jr4iuPQM-unsplash.jpg" alt="" />
-                <p class="align-left" data-key="53"><span data-key="52">Contactez-nous si vous...</span></p>
-<ol class="align-left" data-key="56">
-<li data-key="55"><em><span data-key="52">rêvez de </span>travailler dans l'industrie du web3 💭 ou de l'intelligence artificielle </em></li>
-<li data-key="68"><span data-key="67">aimez l'écosystème de la block-chain 🧱</span></li>
-<li data-key="68">voulez être un acteur du changement 👨‍🏭👩‍🏭</li>
-<li data-key="68">adhérez fermement aux fondamentales dans nos valeurs professionnels 💍</li>
-</ol>
-<p class="align-left" data-key="62"><span data-key="61">Nous sommes impatients de vous accueillir dans notre famille si vous êtes un illustrateur 🎨, un Game Designer ⚙, un compositeur 🎼, un développeur 👩‍💻👨‍💻 (block-chain ou frontend), développeur ML, un responsable de communauté 🥅, un développeur commercial 🧲 ou un responsable d'investissement 💶 et nous vous donnerons tout ce dont vous avez besoin pour décrocher le travail de vos rêves !<br>Contactez-nous même <span style="text-decoration: underline;">si vous n'êtes pas</span> dans la <em>liste recherchée</em>, mais que vous pensez pouvoir soumettre une excellente idée 💡 et nous serons à l'écoute👂 pour vous entendre parler 🗣!</span></p>
-<blockquote>
-<p class="align-right"><em>Si vous êtes intéressé par notre philosophie, <a href="https://p2enjoy.studio/p2enjoy-game-philosophy/" rel="nofollow">vous pouvez lire notre livre blanc de nos motivations ici</a>.</em></p>
-</blockquote>
-<p><span style="font-weight: 400;">Les projets sur lesquels nous nous engageons doivent respecter au minima un(e)  :</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><a href="https://p2enjoy.studio/environment/" title="En savoir plus sur nos engagements en faveur de l'environnement">Engagements respectueux de l'environnement du studio et de ses projets.</a></span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><a href="https://p2enjoy.studio/shares/" title="En savoir plus sur notre vision équitable de la redistribution des gains de jeu">Redistribution équitable des parts entre les investisseurs et les joueurs </a>(fini les systèmes Ponzi!).</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><a href="https://p2enjoy.studio/fun/" title="En savoir plus sur nos observations concernant les jeux blockchain actuels">Game-play conçus pour le long terme : amusez-vous pendant des mois !</a></span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><a href="https://p2enjoy.studio/actors/" title="En savoir plus sur la raison pour laquelle nous favorisons l'économie locale avant tout">Priorité aux acteurs locaux et à l'économie locale.</a></span></li>
-</ul>
-<address><span style="color: #7e8c8d;">Vous pouvez développer, en cliquant dessus, chacune de nos valeurs pour avoir une meilleure explication de notre vision et de la façon dont nous travaillons pour suivre ces chemins.</span></address><address> </address><address>Pour une liste exhaustive des positions ouvertes, <a href="https://p2enjoy.studio/tags/careers/" rel="nofollow">consultez cette liste!</a></address>
-<p><strong>Le plus important : nous voulons que la block-chain et l'intelligence artificielle soient utilisées à des fins responsables! </strong><em>D'où le #Enjoy dans le #P2E 🥳</em></p>
-<p class="align-right">Parce que c'est <strong>P</strong>(lay)<strong>2E</strong>(njoy).</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>General #P2Enjoy Game Philosophy </title>
-        <author>
-            <name>Martino BETTUCCI</name>
-        </author>
-        <link href="https://p2enjoy.studio/p2enjoy-game-philosophy/"/>
-        <id>https://p2enjoy.studio/p2enjoy-game-philosophy/</id>
-            <category term="The Whitepapers"/>
-            <category term="Our values"/>
-            <category term="About"/>
-
-        <updated>2023-03-17T17:29:09+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://p2enjoy.studio/media/posts/22/mika-baumeister-LaqL8nxiacc-unsplash.jpg" alt="An arty image who looks cool" />
-                    This is the main and general whitepaper of a game project. There are several blockchain games out there, there will&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://p2enjoy.studio/media/posts/22/mika-baumeister-LaqL8nxiacc-unsplash.jpg" alt="An arty image who looks cool" />
-                <p>This is the main and general whitepaper of a game project.   </p>
-<h2 id="why-more-blockchain-games">Why more blockchain games</h2>
-<p>There are several blockchain games out there, there will be even more in the next few years: you may wonder why we decided to help people create theirs owns; what will you find in our games that we think you won’t find elsewhere?<br>The answer to that question is the source of our motivation, which brings us the existing…   </p>
-<h2 id="problems-with-current-generation-block-chain-games">Problems with current generation block-chain games</h2>
-<p>We played a lot and inquired people a lot about the block-chain games and majority agrees that you rarely enjoy playing those #P2E games more then 5 minutes a day…<br>There is a general lack of innovation in the domain: they are just “forks” or “forks of forks” with swords instead of spears for fighting games, engines instead of horses for racing games… and despite being “decentralized”, you are most likely to play alone and on your own: your avatars fighting or running against semi-random mathematical statistics.<br>Also, current generation of block-chain games tends to have a very low life expectancy: days to weeks at best. Players moves fast to the new “clone of ..” on “say another blockchain name.”<br>Games who stands against time and have successfully installed a durable user base, do emphasize to the extreme the concept of “pay to win” (which we hate in games cause it defy the idea that gaming is for entertainement) and gets the more and more expensive to play to sustain the economy: those who fail to do so just fall for interest (like a ponzi scheme is supposed to do).<br>It is hard to find a community which is really motivated by the gameplay in the current state of the market.   </p>
-<p>To resume what we have experienced so far about blockchain games, they…</p>
-<ul>
-<li>have a short life time expectancy or… </li>
-<li>tends to get the more and more expensive to play.</li>
-<li>are boring and repetitive because they lack innovations.</li>
-<li>makes you feel isolated because they lack user interactions.</li>
-</ul>
-<p><em><strong>In general, we can say that current generation of blockchain games do not invest in gameplay at all and therefore should not be called “games” but “gamified Ponzi” or “gamified investing strategies”.</strong></em>   </p>
-<h3 id="analysis-of-key-issues-and-consequences-on-the-blockchain-game-development">Analysis of key issues and consequences on the blockchain game development</h3>
-<p>Today players interest is oriented in investment or ROI (return of investment) and they need a quick game mechanic so to play only a few minutes a day.   </p>
-<p>Since a blockchain game is backed to token (or a set of tokens), <em>players tends to apply investing strategies instead of fun while playing</em> to maximize returns. </p>
-<p><em><strong>KEY ISSUE “A”: In this scenario as soon as the economy of the token(s) backing the game falls, it is the entire game interest that falls and players just leave.</strong></em>   </p>
-<p>Cryptocurrencies are a highly volatile market by definition and a token ROI viability can be annihilated in a very short unpredictable time-frame: cryptocurrencies investors are unregulated ([<em>editor’s note</em>] as of time of writing) and this has the consequence that the vast majority of them are inexperienced traders.   </p>
-<p>As a conséquence of the volatility and user human behaviour and as a business owner, <strong>you can’t plan business income in this market</strong>: this is the cause why blockchain game developers writes easy simple games which tend to be repetitive and boring.<br>Those who have expressed a long-term road-map to address a better game later on, hardly reach their goals because as soon as a new game with higher ROI is known then the user-base just leave.   </p>
-<p><em><strong>KEY ISSUE “B”: Blockchain game developers have to deal with inexperienced investors who decide the fate of their product applying investing strategies… in a game.</strong></em> </p>
-<p>A token-based blockchain game, in order to survive and roll out its long-term road-map, must create the chance to have a constantly higher ROI then the concurrence or force the players to not bail-out by vesting or taxing them.   </p>
-<p>Vesting and heavy taxing the users may scare the players, constantly increase the ROI implies semi-Ponzi scheme so the entry-ticket tends to become the more and more expensive progressivly pushing away new players.   </p>
-<p><strong>KEY ISSUE “C”: Long-term blockchain games backed by a token have to deal with the conséquences of players advantaged by the rule “first arrived, better served” and implies a linear decreasing relation between subscriptions and prices; as the entering ticket increases, the user-base rarely follows in linear correlation.</strong>   </p>
-<p>Blockchain games are deterministic, game mechanics are expressed in code which is openly readable on the chain and traders can exploit the simple mechanics to write bots.<br><em>And we might say, why not?</em><br>Current generation blockchain game is so simplistic that they seam to be meant to be played by robots instead of humans.   </p>
-<p><strong>KEY ISSUE “D”: Because of their simplistic nature, blockchain game developers do not spend the time to built mechanics oriented to the human brain and its social expression.</strong> </p>
-<h2 id="future-for-p2e-games">Future for P2E games</h2>
-<p>Here at #P2Enjoy we believe games should be played for fun.<br>As simplistic as this might seems, play to enjoy the gameplay should be the first element of choice for a game to be played.  </p>
-<blockquote>
-<p>We created the new <em>hashtag</em> #P2Enjoy to replace the infamous play-to-earn #P2E.<br>And we plan to make the trend stay.  </p>
-</blockquote>
-<p>In order to remove the induced problems of the token economics behind a game, we decided to <strong>remove the token entirely</strong> and focus on a new economic mechanic to backup the game tresory.  </p>
-<p>If you’re interested about how we achieved sustainability wihtout a token, keep up the good work and read about our general game economics whitepaper as soon as this will be disclosed.<br><strong>We engineers our games from bottom-up where the fundations of our games are theirs mechanics and gameplay while the earn economy is built on top of that (not the other way around!)</strong>  </p>
-<p>If you read so far, <em>thank you for your interest on our efforts</em> to make the blockchain game space a better and more enjoyable environnement: you can follow us on the social network via the <a href="/tags/contact/">contact page</a>.</p>
-<h5 id="the-founders">The founders</h5>
-<p>Footnote: <em>All texts, expressed ideas are TM of P2Enjoy, read the <a href="https://p2enjoy.studio/notice-on-copyright-and-intellectual-or-industrial-properties/">notice</a></em></p>
-
+                <p>Je testais le potentiel de <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=finetuning&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7155461672638300160" data-test-app-aware-link=""><span aria-hidden="true">#</span>finetuning</a> de <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=stablediffusion&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7155461672638300160" data-test-app-aware-link=""><span aria-hidden="true">#</span>StableDiffusion</a> <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=xl&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7155461672638300160" data-test-app-aware-link=""><span aria-hidden="true">#</span>XL</a>, j'ai choisi le thème des années 50 :-)<br><br>Après avoir entrainé le modèle sur l'anatomie des mains/pieds pendant une 20~ d'époques et sur le style des fithies pendant ~10 d'époques, j'ai généré cette image depuis mon checkpoint via un text-to-image tel quel et sans photoshop.<br>Je suis presque satisfait; il y a des petits artefacts mais grossomodo les mains et les pieds sont "pas trop mal" sans avoir recoru à aucune retouche.<br><br>J'ai ai profité pour tester le framework SEGA (<a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=semantinc&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7155461672638300160" data-test-app-aware-link=""><span aria-hidden="true">#</span>SEmantinc</a> <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=guidance&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7155461672638300160" data-test-app-aware-link=""><span aria-hidden="true">#</span>Guidance</a> <a class="app-aware-link " href="https://www.linkedin.com/feed/hashtag/?keywords=architecture&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7155461672638300160" data-test-app-aware-link=""><span aria-hidden="true">#</span>Architecture</a> for diffusion models) qui permet d'éditer une génération deterministe via un prompt supplementaire injecté progressivement pendant la phase de sampling: le résultat, des corrections sans alterer la composition generale (c'est l'image numéro 2). Ici, par exemple, j'ai utilisé SEGA pour lui dire que le sujet doit regarder vers la camera (au lieu d'avoir les yeux fermés).<br><br>Cela marche aussi pour simuler les expressions, créer le même visage mais souriant, triste, qui rigole, qui pleure.... je vous fait une démonstration dans la semaine. 😋 <br><br>P.S.:pour les plus curieux ou les plus techiques, il ne s'agit pas d'une technique de inpainting ni d'un resampling (image-to-image) mais il s'agit bel et bien de manipuler le même sujet, composition et la même pose via pure prompt textuel.<br><br>Vous preferez la quelle? Et pourquoi?<br>😀 </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="3">
+<figure class="gallery__item"><a href="https://p2enjoy.studio/media/posts/41/gallery/1705976725432.jpeg" data-size="800x533"><img decoding="auto" loading="lazy" src="https://p2enjoy.studio/media/posts/41/gallery/1705976725432-thumbnail.jpeg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://p2enjoy.studio/media/posts/41/gallery/1705976731436.jpeg" data-size="800x533"><img decoding="auto" loading="lazy" src="https://p2enjoy.studio/media/posts/41/gallery/1705976731436-thumbnail.jpeg" alt="" width="720" height="480"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
